@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  ChildView.cpp
+  MainFrm.cpp
+  stdContainer_vs_MFCCollection.cpp
+  Generating code
+  1162 of 1165 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    30 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  stdContainer_vs_MFCCollection.vcxproj -> D:\PolliwogGit\stdContainer_vs_MFCCollection\Release\stdContainer_vs_MFCCollection.exe
+  stdContainer_vs_MFCCollection.vcxproj -> D:\PolliwogGit\stdContainer_vs_MFCCollection\Release\stdContainer_vs_MFCCollection.pdb (Full PDB)
